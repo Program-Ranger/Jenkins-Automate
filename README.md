@@ -1,2 +1,3 @@
 # Jenkins-Automate
-Learning to automate compilation and deployment
+Learning to automate compilation and deployment.
+Jenkins understanding.
